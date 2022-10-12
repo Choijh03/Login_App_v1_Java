@@ -5,7 +5,7 @@ This fisrt version of Login Application built on Android Studio (Dolphin version
 
 Allowed id = "admin" and password = "admin".
 
-Google and Facebook login is not implemented in this version, it will be implemened in next version
+Google login is not implemented in this version, it will be implemened in next version
 
 
 Android View:
